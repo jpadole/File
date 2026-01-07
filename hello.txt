@@ -2,3 +2,5 @@ Hello world
 happy day
 good day
 Testing the git pull command 
+test the comd 
+fetch comand 
